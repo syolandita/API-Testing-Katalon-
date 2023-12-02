@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC Delete Author by ID</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>385c29e8-6d68-4d3c-ac48-b13eed81ff5f</testCaseGuid>
+</TestCaseEntity>

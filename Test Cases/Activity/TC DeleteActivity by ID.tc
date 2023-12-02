@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC DeleteActivity by ID</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b47a9a58-4db8-4e40-a3ee-2be457fb509a</testCaseGuid>
+</TestCaseEntity>
